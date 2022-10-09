@@ -1,9 +1,10 @@
 # ENSA-Materials
+
 Study Materials used in Cisco: Enterprise Networking, Security, and Automation (ENSA). 
 
 This repository aims to give student who couldn't afford the class with an ideas on the material, as well as what CCNA student will be learning in ENSA.
 
-## Objectives
+## Objectives (View the PDF by clicking the link below)
 
 * [Module 1](https://docs.google.com/viewer?url=https://github.com/ngzhekai/ENSA-Materials/raw/main/ENSA_Module_1.pdf)
 
