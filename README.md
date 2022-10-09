@@ -1,4 +1,4 @@
-# ENSA-Materials
+# CCNA ENSA Materials (Slides)
 
 Study Materials used in Cisco: Enterprise Networking, Security, and Automation (ENSA). 
 
