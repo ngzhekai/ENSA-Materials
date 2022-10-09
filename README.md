@@ -34,3 +34,6 @@ This repository aims to give student who couldn't afford the class with an ideas
 * [Module 13](https://docs.google.com/viewer?url=https://github.com/ngzhekai/ENSA-Materials/raw/main/ENSA_Module_13.pdf)
 
 * [Module 14](https://docs.google.com/viewer?url=https://github.com/ngzhekai/ENSA-Materials/raw/main/ENSA_Module_14.pdf)
+
+* [Extra resources about ACL](https://docs.google.com/viewer?url=https://github.com/ngzhekai/ENSA-Materials/raw/main/376203_Lecture%2010_ACL.pdf)
+
