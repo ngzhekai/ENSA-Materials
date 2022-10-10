@@ -1,3 +1,5 @@
+Click [Here](https://ngzhekai.github.io/ENSA-Materials/) to the Webpage.
+
 ## Purpose
 
 This repository aims to give student who couldn't afford the class with an ideas on the material, as well as what CCNA student will be learning in ENSA.
