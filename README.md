@@ -1,4 +1,4 @@
-Click [Here](https://ngzhekai.github.io/ENSA-Materials/) to the Webpage.
+Click [Here](https://ngzhekai.github.io/ENSA-Materials/) to view the webpage.
 
 ## Purpose
 
